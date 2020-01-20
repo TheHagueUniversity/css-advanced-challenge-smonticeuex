@@ -121,3 +121,17 @@ li:nth-child(20) {
   background-color: #E0E0DF;
   border-bottom: none;
 }
+
+
+/* Responsive-----*/ 
+
+@media (max-width: 500px) {  
+        width: 66vw;
+        grid-template-columns: auto 1fr 1fr 1fr 0.5fr; 
+        grid-template-rows: auto auto  auto auto;
+      }      
+
+
+
+
+
