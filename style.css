@@ -70,20 +70,20 @@ li:nth-child(9) {
 }
 li:nth-child(10) {
   grid-row: span 2;
-  background-color: #F2EEE2;
+  background-color: #B8B8F3;
 }
 li:nth-child(11) {
   grid-row: span 2;
   grid-column: span 2;
-  background-color: #130409;
+  background-color: #D7B8F3;
 }
 li:nth-child(12) {
   grid-column: span 2;
-  background-color: #C0BFBA;
+  background-color: #F397D6;
 }
 li:nth-child(13) {
   grid-column: span 2;
-  background-color: #D6DEE0;
+  background-color: #F42272;
 }
 li:nth-child(14) {
   grid-row: span 3;
@@ -93,16 +93,16 @@ li:nth-child(14) {
 }
 li:nth-child(15) {
   grid-column: span 2;
-  background-color: #DEE2D4;
+  background-color: #FAD8D6 ;
 }
 li:nth-child(16) {
   grid-row: span 2;
   grid-column: span 2;
-  background-color: #241785;
+  background-color: #F05D5E;
 }
 li:nth-child(17) {
   grid-row: span 3;
-  background-color: #D73630;
+  background-color: #D73630;  
   border-bottom: none;
   border-right: none;
 }
